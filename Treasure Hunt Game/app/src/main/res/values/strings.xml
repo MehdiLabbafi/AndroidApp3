@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidApp3</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Start_the_Game">Start the Game</string>
+    <string name="Welcome_to_the_treasure_hunting_game">Welcome to the treasure hunting game!</string>
+    <string name="user">user:</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_the_treasure_hunt_game">Welcome to the Treasure Hunt Game!</string>
+    <string name="next_location">Next Location</string>
+</resources>
